@@ -1,1 +1,2 @@
-git remote add origin https://github.com/manishSpring/team-lead-repo.git
+git remote add origin http
+s://github.com/manishSpring/team-lead-repo.git
